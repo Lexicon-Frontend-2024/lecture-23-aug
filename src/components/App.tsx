@@ -1,4 +1,4 @@
-import { Feed, Header } from ".";
+import { Feed, Footer, Header } from ".";
 // import { Header } from "./Header";
 
 // App is the root component of the application
@@ -7,6 +7,7 @@ export function App() {
     <div className="app">
       <Header />
       <Feed />
+      <Footer />
     </div>
   );
 }

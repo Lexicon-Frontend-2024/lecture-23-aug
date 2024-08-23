@@ -10,3 +10,7 @@
   display: flex;
   gap: 2rem;
 }
+
+.post-actions .actions .icon {
+  cursor: pointer;
+}
