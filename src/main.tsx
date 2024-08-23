@@ -6,6 +6,7 @@ import "./css/index.css";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
+    {/* App is the root component */}
     <App />
   </React.StrictMode>
 );

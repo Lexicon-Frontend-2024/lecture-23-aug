@@ -15,6 +15,7 @@
   margin: 0;
 }
 
+/* :root is identical to html */
 html {
   --black: #09090b;
   --green: #0a8537;
